@@ -1,0 +1,6 @@
+C:\Users\joshu\source\repos\FinancialJuice\Debug\WebView2Loader.dll
+C:\Users\joshu\source\repos\FinancialJuice\Debug\FinancialJuice.exe
+C:\Users\joshu\source\repos\FinancialJuice\Debug\FinancialJuice.pdb
+H:\DesktopApplications\FinancialJuice\Debug\WebView2Loader.dll
+H:\DesktopApplications\FinancialJuice\Debug\FinancialJuice.exe
+H:\DesktopApplications\FinancialJuice\Debug\FinancialJuice.pdb
